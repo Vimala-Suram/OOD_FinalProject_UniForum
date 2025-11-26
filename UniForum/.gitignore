@@ -1,0 +1,35 @@
+# Google OAuth credentials - DO NOT COMMIT
+client_secret.json
+**/client_secret.json
+src/client_secret.json
+bin/client_secret.json
+
+# OAuth tokens directory
+tokens/
+**/tokens/
+
+# Database files (if any)
+*.db
+*.sqlite
+*.sqlite3
+db/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+bin/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
