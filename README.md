@@ -23,7 +23,7 @@ These solutions make learning inefficient and time-consuming.
 UniForum addresses students pain points and provides collaborative, supportive and efficient academic environment for Students.
 
 ## File Structure
-
+.
 UniForum
 ├── src                              # Source code
 │   ├── application                  # Main application entry and styles
