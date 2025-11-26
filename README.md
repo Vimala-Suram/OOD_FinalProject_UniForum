@@ -24,24 +24,24 @@ UniForum addresses students pain points and provides collaborative, supportive a
 
 ## File Structure
 
-UniForum
-├── src                              # Source code
-│   ├── application                  # Main application entry and styles
-│   └── edu
-│       └── northeastern
-│           └── uniforum
-│               ├── db               # Database related source files
-│               └── forum
-│                   ├── controller   # Handles user interactions
-│                   ├── dao          # Data Access Objects for DB operations
-│                   ├── model        # Data models
-│                   ├── service      # Business logic and services
-│                   ├── util         # Utility classes
-│                   └── view         # FXML views and CSS
-├── db                               # Database files
-├── lib                              # External libraries and JAR dependencies
-├── tokens                           # OAuth 2.0 client credentials storage
-├── client_secret.json               # OAuth client credentials (Google API)
-└── README.md                        # Project README file
+    UniForum
+    ├── src                              # Source code
+    │   ├── application                  # Main application entry and styles
+    │   └── edu
+    │       └── northeastern
+    │           └── uniforum
+    │               ├── db               # Database related source files
+    │               └── forum
+    │                   ├── controller   # Handles user interactions
+    │                   ├── dao          # Data Access Objects for DB operations
+    │                   ├── model        # Data models
+    │                   ├── service      # Business logic and services
+    │                   ├── util         # Utility classes
+    │                   └── view         # FXML views and CSS
+    ├── db                               # Database files
+    ├── lib                              # External libraries and JAR dependencies
+    ├── tokens                           # OAuth 2.0 client credentials storage
+    ├── client_secret.json               # OAuth client credentials (Google API)
+    └── README.md                        # Project README file
 
 
