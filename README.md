@@ -44,4 +44,10 @@ UniForum addresses students pain points and provides collaborative, supportive a
     ├── client_secret.json               # OAuth client credentials (Google API)
     └── README.md                        # Project README file
 
+### Required Tools for UniForum Setup
 
+1. **Java JDK 25** – (https://www.oracle.com/java/technologies/downloads/#java25)  
+2. **Eclipse IDE for Java Developers** – (https://www.eclipse.org/downloads/)  
+3. **JavaFX SDK 25** – (https://gluonhq.com/products/javafx/)  
+4. **Scene Builder (latest)** – (https://gluonhq.com/products/scene-builder/)  
+5. **SQLite (latest stable)** – (https://www.sqlite.org/download.html)
