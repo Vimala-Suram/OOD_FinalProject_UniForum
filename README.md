@@ -21,3 +21,25 @@ These solutions make learning inefficient and time-consuming.
 - **Self-Paced Learning:** Access resources and resolve doubts anytime, supporting independent learning.  
 
 UniForum addresses students pain points and provides collaborative, supportive and efficient academic environment for Students.
+
+## Project Structure
+
+UniForum
+├── src                             # Source code
+│   ├── application                 # Main application entry and styles
+│   └── edu
+│       └── northeastern
+│           └── uniforum
+│               ├── db               # Database related source files
+│               └── forum
+│                   ├── controller   # Handles user interactions
+│                   ├── dao          # Data Access Objects for DB operations
+│                   ├── model        # Data models
+│                   ├── service      # Business logic and services
+│                   ├── util         # Utility classes
+│                   └── view         # FXML views and CSS
+├── db                               # Database files
+├── lib                              # External libraries and JAR dependencies
+├── tokens                           # OAuth 2.0 CLient credentials storage
+├── client_secret.json               # OAuth client credentials (Google API)
+
