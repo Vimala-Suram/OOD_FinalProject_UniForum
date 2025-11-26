@@ -23,7 +23,7 @@ These solutions make learning inefficient and time-consuming.
 UniForum addresses students pain points and provides collaborative, supportive and efficient academic environment for Students.
 
 ## File Structure
-.
+
 UniForum
 ├── src                              # Source code
 │   ├── application                  # Main application entry and styles
@@ -42,7 +42,6 @@ UniForum
 ├── lib                              # External libraries and JAR dependencies
 ├── tokens                           # OAuth 2.0 client credentials storage
 ├── client_secret.json               # OAuth client credentials (Google API)
-├── .gitignore                       # Files/folders to ignore in Git
 └── README.md                        # Project README file
 
 
